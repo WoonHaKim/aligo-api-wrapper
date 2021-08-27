@@ -1,0 +1,26 @@
+{
+  "name": "aligo-js-api",
+  "version": "0.1.0",
+  "description": "aligo api JS/TS wrapper (Unofficial)",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aligo",
+    "sms"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/isomorphic-fetch": "^0.0.35",
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "eslint": "^7.32.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
