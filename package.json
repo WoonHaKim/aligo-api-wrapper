@@ -1,16 +1,17 @@
 {
-  "name": "aligo-js-api",
+  "name": "aligo-api-wrapper",
   "version": "0.1.0",
   "description": "aligo api JS/TS wrapper (Unofficial)",
   "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "aligo",
     "sms"
   ],
-  "author": "",
+  "author": "UHKim",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/isomorphic-fetch": "^0.0.35",
